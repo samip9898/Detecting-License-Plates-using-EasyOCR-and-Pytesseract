@@ -1,8 +1,5 @@
 # Detecting-License-Plates-using-EasyOCR-and-Pytesseract
 
-[Introduction](#Introduction)
-
-[My Second Title](#markdown-header-my-second-title)
 
 # Introduction
 
