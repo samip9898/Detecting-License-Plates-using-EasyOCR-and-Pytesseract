@@ -1,0 +1,1 @@
+# Detecting-License-Plates-using-EasyOCR-and-Pytesseract
